@@ -1,0 +1,57 @@
+body {
+    font-size: 15px;
+    background-image: url(../../images/background_full.jpg);
+    height: 100vh;
+}
+header {
+    background-color: rgba(11, 11, 10, 0.698);
+    height: 15%;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: rgb(24, 17, 5);
+    height: 15%;  
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #FFFFFF;  
+    margin: auto 0;
+}
+
+header ul {
+    float: left;
+
+}
+
+.principal {
+    height: 70%;
+    text-align: center;
+    padding: 3rem 0 3rem 0;
+}
+
+.principal h2 {
+    color: rgb(25, 26, 24);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.principal p {
+    color: rgb(25, 26, 24);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.principal button {
+    display: block;
+    margin: 1rem auto 0 auto;
+}
+
+footer span {
+    color: #FFFFFF;
+}
+
+
