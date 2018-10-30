@@ -1,0 +1,80 @@
+body {
+    font-size: 15px;
+    background-image: url(../../images/background_full.jpg);
+    height: 100vh;
+}
+header {
+    background-color: rgba(11, 11, 10, 0.698);
+    height: 15%;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: rgb(24, 17, 5);
+    height: 15%;  
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: auto 2rem auto 0;
+}
+
+h1 a {
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.nav .nav-tabs {
+    width: 30%;
+    margin-left: 2rem;
+}
+
+.principal {
+    height: 70%;
+    text-align: center;
+    padding: 3rem 0 3rem 0;
+}
+
+footer span {
+    color: #FFFFFF;
+}
+
+
+select {
+    width: 10rem;
+    }
+    
+    
+    
+    input[type="checkbox"] {
+        margin: 1rem 1rem 1rem 2em;
+    }
+    
+    .inputText {
+        width: 100%;
+        font-size: 1rem;
+        color: #0b4edd;
+        background: #0d0d0e;
+        padding: 1rem 2rem;
+    }
+    
+    input:-webkit-autofill {
+        -webkit-box-shadow: 0 0 0 30px rgb(0, 0, 0) inset;
+        -webkit-text-fill-color: #0b4edd;
+    
+    }
+    
+    .login input {
+        width: 100%;
+        font-size: 1rem;
+        color: #0b4edd;
+        background: #0d0d0e;
+        padding: 1rem 2rem;
+    }

@@ -22,9 +22,9 @@ header h1 {
     margin: auto 0;
 }
 
-header ul {
-    float: left;
-
+.nav-tabs {
+    width: 40%;
+    margin-left: 11rem;
 }
 
 .principal {
@@ -41,16 +41,42 @@ header ul {
 
 .principal p {
     color: rgb(25, 26, 24);
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
+}
+
+.principal span {
+    font-size: 1.5rem
 }
 
 .principal button {
     display: block;
     margin: 1rem auto 0 auto;
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
 }
 
 footer span {
+    color: #FFFFFF;
+}
+
+.signIn {
+    float: right;
+    color: #FFFFFF;
+}
+
+.signIn a {
+    color: #FFFFFF;
+}
+
+.signUp {
+    float: right;
+    margin-left: 3rem;
+    color: #FFFFFF;
+}
+
+.signUp a {
     color: #FFFFFF;
 }
 
